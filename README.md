@@ -1,15 +1,15 @@
-AI Customer Support Chatbot
+# AI Customer Support Chatbot
 
 A simple AI-powered Customer Support Chatbot built using RAG (Retrieval-Augmented Generation) and Google Gemini AI.
 
-Files
+## Files
 
-Frontend
+### Frontend
 - index.html → Chatbot User Interface
 - style.css → Styling and Design
 - script.js → Frontend Logic and Backend Communication
 
-Backend
+### Backend
 - app.py → Flask Backend Server
 - chatbot.py → Chatbot Response Logic
 - rag.py → RAG Retrieval System
@@ -18,7 +18,7 @@ Backend
 
 ---
 
-Setup & Run
+## Setup & Run
 
 Step 1 — Install Required Packages
 
@@ -80,7 +80,7 @@ Example Questions:
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Flask
@@ -94,7 +94,7 @@ Technologies Used
 
 ---
 
-Future Enhancements
+## Future Enhancements
 
 - Voice-enabled chatbot
 - Multi-language support
